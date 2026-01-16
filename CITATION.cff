@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Byzantine Consensus using Multiplicative Weights on Sub-Gaussian External Data"
+type: software
+authors:
+  - given-names: Kelsey
+    family-names: Knowlson
+  - given-names: Victoria
+    family-names: Lien
+  - given-names: Bryce
+    family-names: Palmer
+  - given-names: Matthew
+    family-names: Rackley
+date-released: 2025-01-01
+url: "https://github.com/Alimar777/Byzantine-Consensus-on-Random-Data"
+license: "All rights reserved"
